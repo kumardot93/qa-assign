@@ -55,7 +55,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const baseUrl = 'http://localhost:8000/api/movies';
+const baseUrl = 'https://serene-sea-05142.herokuapp.com/api/movies';
 class MovieService {
     constructor(http) {
         this.http = http;
